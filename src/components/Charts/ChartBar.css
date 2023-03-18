@@ -1,0 +1,25 @@
+.chart-bar {
+  flex: 1;
+  text-align: center;
+}
+.chart-bar .chart-bar-inner {
+  width: 12px;
+  height: 110px;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  margin: 0 auto;
+  border-radius: 8px;
+  background-color: #bbabf2;
+}
+.chart-bar .chart-bar-inner .chart-bar-fill {
+    width: 100%;
+    transition: 0.5s;
+    border-radius: 8px;
+    background-color: #380054;
+}
+.chart-bar .chart-bar-month {
+  font-size: 14px;
+  font-weight: 500;
+  text-transform: capitalize;
+}

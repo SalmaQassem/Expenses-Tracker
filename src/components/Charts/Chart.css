@@ -1,0 +1,6 @@
+.expenses-chart {
+    width: 100%;
+    display: flex;
+    padding: 10px 15px;
+    background-color: #f8daff;
+}

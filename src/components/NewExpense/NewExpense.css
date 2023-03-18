@@ -1,0 +1,19 @@
+.new-expense {
+    margin: 0 auto 20px;
+    background-color: #bbabf2;
+}
+.add-expense {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.add-expense button{
+    padding: 15px 10px;
+    background-color: #380054;
+    font-size: 16px;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    text-transform: capitalize;
+    cursor: pointer;
+}
